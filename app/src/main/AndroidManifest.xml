@@ -13,5 +13,4 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PinUpBingo"
         tools:targetApi="31" />
-
 </manifest>
