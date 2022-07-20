@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pin Up Bingo</string>
+    <string name="money">Деньги</string>
+    <string name="last_win">Выигрыш</string>
+    <string name="bet">Ставка</string>
+</resources>
