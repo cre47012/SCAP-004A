@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Pin Up Bingo</string>
-    <string name="money">Money</string>
+    <string name="money">Balance</string>
     <string name="last_win">Last win</string>
     <string name="bet">Bet</string>
+    <string name="demo_mode">demo mode</string>
+    <string name="check_internet">No internet connection</string>
+    <string name="tap_request">tap to retry</string>
+    <string name="appsflyer_key">iqu4KZGw8eqAEu85xnRnXD</string>
+    <string name="vis">af_visitor_id</string>
+    <string name="no_vis">no_visitor_id</string>
+    <string name="ccas">close</string>
 </resources>

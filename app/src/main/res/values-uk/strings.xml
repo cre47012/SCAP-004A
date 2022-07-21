@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">Pin Up Bingo</string>
     <string name="money">Баланс</string>
-    <string name="last_win">Выигрыш</string>
+    <string name="last_win">Виграш</string>
     <string name="bet">Ставка</string>
-    <string name="check_internet">Нет интернет соединения!</string>
     <string name="demo_mode">демо режим</string>
+    <string name="check_internet">Відсутнє інтернет з\'єднання</string>
     <string name="appsflyer_key">iqu4KZGw8eqAEu85xnRnXD</string>
-    <string name="tap_request">нажмите чтобы перезагрузить</string>
+    <string name="tap_request">натисніть щоб перезавантажити</string>
     <string name="vis">af_visitor_id</string>
     <string name="no_vis">no_visitor_id</string>
     <string name="ccas">close</string>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220477917708",
+    "project_id": "pin-up-bingo",
+    "storage_bucket": "pin-up-bingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220477917708:android:9bcf926d1d9ae284b83c29",
+        "android_client_info": {
+          "package_name": "pin.up.bingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220477917708-bergmdvr2sr2oili6b8rgdkuko7nadvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7OWLt5n7uhIG9B9kQvSxY0x3R_8A-cvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220477917708-bergmdvr2sr2oili6b8rgdkuko7nadvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
